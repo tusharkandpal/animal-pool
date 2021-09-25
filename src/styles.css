@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Scheherazade+New&display=swap");
+
+.App {
+  font-family: "Scheherazade New", serif;
+  text-align: center;
+  color: teal;
+}
+
+#app-header {
+  background-color: #D1FAE5;
+}
+
+.input-text {
+  padding: 0.8rem;
+  width: 80%;
+  border-radius: 0.5rem;
+  border: 1px solid teal;
+  outline: teal;
+}
