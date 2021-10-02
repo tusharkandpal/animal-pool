@@ -56,7 +56,7 @@ export default function App() {
           <span
             onClick={() => clickHandler(animal)}
             key={animal}
-            style={{ padding: "0.5rem", cursor: "pointer" }}
+            style={{ padding: "1.3rem", cursor: "pointer" }}
           >
             {" "}
             {animal}
